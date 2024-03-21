@@ -187,7 +187,7 @@ aside{
 .aside-text:hover{
     transition: 0.2s;
     transform: scale(1.15);
-    color: orange;
+    color: white;
 }
 .nazva{
     transition: 0.2s;
